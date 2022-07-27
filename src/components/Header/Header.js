@@ -14,19 +14,7 @@ const Header = () =>  (
         </a>
       </Link>
     </Div1>
-    <Div2>
     
-      <li>
-        <Link href="#tech">
-          <NavLink>Projects</NavLink>
-        </Link>
-      </li>        
-      <li>
-        <Link href="#about">
-          <NavLink>Skills</NavLink>
-        </Link>
-      </li>        
-    </Div2>
       <Div3>
         <SocialIcons href="https://google.com">
           <AiFillGithub size="3rem" />
@@ -34,9 +22,7 @@ const Header = () =>  (
         <SocialIcons href="https://google.com">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://google.com">
-          <AiFillInstagram size="3rem"/>
-        </SocialIcons>
+        
       </Div3>
     </Container>
 );
