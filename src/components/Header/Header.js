@@ -10,16 +10,16 @@ const Header = () =>  (
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
-          <GiBarbarian size="3rem" /> <span>Victor Marinho Correa</span>
+          <GiBarbarian size="3rem" /> <span>Victor M. Correa</span>
         </a>
       </Link>
     </Div1>
     
       <Div3>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="https://github.com/vicmcorrea">
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="https://www.linkedin.com/in/jvictormarinhocorrea/">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
         

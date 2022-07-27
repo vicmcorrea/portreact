@@ -14,7 +14,7 @@ const Hero = (props) => (
         <SectionText>
         Enthusiastic and hard-working person with excellent problem solving skills and always interested in learning the latest technologies available. I excel working in collaborative and fast paced environments. Motivated to constantly improve my skills and grow professionally.
         </SectionText>
-        <Button onClick={props.handleClick}>CV</Button>
+        <a  download href="../resources/VICTORMCORREA.pdf" > <Button >CV</Button> </a>
       </LeftSection>
     </Section>
   </>

@@ -177,7 +177,7 @@ export const ButtonBack = styled.div`
   justify-content: center;
   margin: ${({ alt, form }) => (alt || form) ? '0' : '0 0 80px'};
   color: #fff;
-  background: ${({ alt }) => alt ? 'linear-gradient(270deg, #CBA2C7 0%, #CBA2C7 100%)' : 'linear-gradient(270deg, #EDD7EB  0%, #B133FF 100%)'};
+  background: ${({ alt }) => alt ? 'linear-gradient(270deg, #CBA2C7 0%, #CBA2C7 100%)' : 'linear-gradient(270deg, #978399   0%, #978399  100%)'};
   cursor: pointer;
   transition: 0.5s ease;
   position: relative;
